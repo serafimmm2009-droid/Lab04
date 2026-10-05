@@ -1,0 +1,15 @@
+C:\Users\Том\Documents\Lab04-Lemeshov\bin\Debug\net10.0\Lab04-Lemeshov.exe
+C:\Users\Том\Documents\Lab04-Lemeshov\bin\Debug\net10.0\Lab04-Lemeshov.deps.json
+C:\Users\Том\Documents\Lab04-Lemeshov\bin\Debug\net10.0\Lab04-Lemeshov.runtimeconfig.json
+C:\Users\Том\Documents\Lab04-Lemeshov\bin\Debug\net10.0\Lab04-Lemeshov.dll
+C:\Users\Том\Documents\Lab04-Lemeshov\bin\Debug\net10.0\Lab04-Lemeshov.pdb
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.AssemblyInfoInputs.cache
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.AssemblyInfo.cs
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.csproj.CoreCompileInputs.cache
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.sourcelink.json
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.dll
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\refint\Lab04-Lemeshov.dll
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.pdb
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\Lab04-Lemeshov.genruntimeconfig.cache
+C:\Users\Том\Documents\Lab04-Lemeshov\obj\Debug\net10.0\ref\Lab04-Lemeshov.dll
